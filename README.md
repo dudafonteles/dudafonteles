@@ -9,9 +9,11 @@
  
 <div> 
 
+
  ## Contatos
-  <a href="https://instagram.com/_dudah.fonteles_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="eduarda.fonteles09@aluno.ifce.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div <a href="https://instagram.com/_dudah.fonteles_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="eduarda.fonteles09@aluno.ifce.edu.br" target = "_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+/></a>
  	 
   
 </div>
