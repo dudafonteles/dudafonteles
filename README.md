@@ -1,4 +1,4 @@
-## Oii! Sou a Duda Fonteles <3
+## Duda Fonteles :)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,4 +12,4 @@
  	 
   
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
