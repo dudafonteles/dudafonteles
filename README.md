@@ -1,4 +1,7 @@
 ## Oii! Sou a Duda Fonteles :)
+![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 ## Estudando no momento
 <div style="display: inline_block"><br>
