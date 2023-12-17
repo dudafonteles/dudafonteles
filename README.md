@@ -9,9 +9,9 @@
 
 ## Estudando no momento
 <div style="display: inline_block"><br>
-  <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Duda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-   <img align="center" alt="Duda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img align= "center" alt= "phyton" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
+<img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align= "center" alt= "java script" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   
  
 <div> 
