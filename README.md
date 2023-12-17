@@ -1,7 +1,11 @@
 ## Oii! Sou a Duda Fonteles :)
-📚| Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará;  
+📚| Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 
-👩🏻‍💻| Atualmente estudando Java e Javascript;
+👩🏻‍🏫| Terceiro semestre do técnico integrado em Informática
+
+👩🏻‍💻| Atualmente estudando Java e Javascript
+
+🏊‍♀️| Atleta do IFCE
  
 
 ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudafonteles&show_icons=true&theme=radical)
