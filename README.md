@@ -1,4 +1,8 @@
 ## Oii! Sou a Duda Fonteles :)
+- Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará;
+- Atualmente estudando Java e Javascript;
+ 
+
 ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudafonteles&show_icons=true&theme=radical)
 
 
