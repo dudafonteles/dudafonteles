@@ -1,5 +1,5 @@
 ## Oii! Sou a Duda Fonteles :)
-📚| Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará;
+📚| Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará;  
 👩🏻‍💻| Atualmente estudando Java e Javascript;
  
 
