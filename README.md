@@ -1,9 +1,7 @@
 ## Oii! Sou a Duda Fonteles :)
 📚| Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 
-👩🏻‍🏫| Terceiro semestre do técnico integrado em Informática
-
-👩🏻‍💻| Atualmente estudando Java e Javascript
+👩🏻‍🏫| Quarto semestre do técnico integrado em Informática
 
 🏊‍♀️| Atleta do IFCE
  
