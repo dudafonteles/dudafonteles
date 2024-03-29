@@ -3,13 +3,15 @@
 
 👩🏻‍🏫| Quarto semestre do técnico integrado em Informática
 
-🏊‍♀️| Atleta do IFCE
+🏊‍♀️| Atleta de natação do  IFCE, Centro de Formação Olimpíca (CFO) e Rede CUCA
+
+
  
 
 ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudafonteles&show_icons=true&theme=radical)
 
 
-## Estudando no momento
+## Linguagens
 <div style="display: inline_block"><br>
 <img align= "center" alt= "phyton" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
 <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
