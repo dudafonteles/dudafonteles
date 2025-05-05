@@ -1,7 +1,7 @@
 ## Oii! Sou a Duda Fonteles :)
 📚| Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará
 
-👩🏻‍🏫| Quarto semestre do técnico integrado em Informática
+👩🏻‍🏫| Sexto semestre do técnico integrado em Informática
 
 🏊‍♀️| Atleta de natação do  IFCE, Centro de Formação Olimpíca (CFO) e Rede Cuca
 
