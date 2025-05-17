@@ -3,7 +3,7 @@
 
 👩🏻‍🏫| Sexto semestre do técnico integrado em Informática
 
-🏊‍♀️| Atleta de natação do  IFCE, Centro de Formação Olimpíca (CFO) e Rede Cuca
+🏊‍♀️| Atleta de natação do IFCE e Ideal Clube
 
 
  
